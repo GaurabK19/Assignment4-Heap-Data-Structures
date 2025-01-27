@@ -1,7 +1,7 @@
 # Algorithm Efficiency Analysis
 
 ## Project Overview
-This project compares the efficiency and scalability of Randomized Quicksort and Hash Table with Chaining.
+This project includes the heap data strucutre, implemenataion using arrays and their appplication in sorting (Heapsort) and priority queue operations
 
 ## Files
 - `Heapsort.py`: Implementation of the Heapsort algorithm.
